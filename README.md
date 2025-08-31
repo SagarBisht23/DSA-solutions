@@ -9,8 +9,9 @@ Each problem has its own folder:
 
 ## ✅ Problems Solved
 
-1. [Sudoku Solver](./sudoku-solver)
-   - [Problem](./sudoku-solver/problem.md)
-   - [Solution](./sudoku-solver/solution.cpp)
-   - [Explanation](./sudoku-solver/explanation.md)
+### 1. Sudoku Solver
+- [Problem](./sudoku-solver/problem.md)
+- [Solution](./sudoku-solver/solution.cpp)
+- [Explanation](./sudoku-solver/explanation.md)
+
 
